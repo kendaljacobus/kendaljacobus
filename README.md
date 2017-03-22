@@ -1,4 +1,4 @@
- My name is Kendal Jacobus. I am a junior student at Lehigh University studying both biology and journalism.
+ My name is Kendal Jacobus. I am a creative, technical and personable student looking to apply my unique skillset to a pharmaceutical or medical device company that I can immediately impact while continue learning in my fields of interest.
  
 # Studies #
 At Lehigh, I am pursuing dual majors in biology and journalism. 
@@ -8,11 +8,7 @@ My journalism degree has developed my editing and visual communication skills by
 [Lehigh University](http://www1.lehigh.edu/)
 
 # Interests #
-I am a creative, technical and personable student looking to apply my skillset to a pharmaceutical or medical device company that I can immediately impact while continuing learning in my fields of interest. 
-
-In my time at Lehigh, I have applied my interests in science and communications to being an editor for the Brown and White newspaper.
-
-Outside of academics, I enjoy athletics and music. 
+Outside of my studies, I enjoy athletics, outdoors and music. For two years at Lehigh University, I was a recruited athlete on the women's soccer team. Now, I am an editor on the Brown and White newspaper.
 
 # Resume and Contact Information can be found at: #
 [Kendal's Linkedin](http://www.linkedin.com/in/kendaljacobus)
