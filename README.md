@@ -12,3 +12,6 @@ Outside of my studies, I enjoy athletics, outdoors and music. For two years at L
 
 # Resume and Contact Information can be found at: #
 [Kendal's Linkedin](http://www.linkedin.com/in/kendaljacobus)
+
+# Projects: #
+![2016 Freshman Breakdown] (https://github.com/kendaljacobus/kendaljacobus.github.io/blob/master/freshman%20breakdown.png?raw=true)
