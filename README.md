@@ -17,4 +17,4 @@ Outside of my studies, I enjoy athletics, outdoors and music. For two years at L
 ![2016 Freshman Breakdown](https://github.com/kendaljacobus/kendaljacobus.github.io/blob/master/freshman%20breakdown.png?raw=true)
  
 # First Timeline #
-![2016 Rio Olympic Games Timeline] (https://timeline.knightlab.com/index.html#preview-embed)
+![2016 Rio Olympic Games Timeline](<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vm3KO9Dn_kjW2eJ10dsqRqxPfLsNJ_cDgzzWykbU0l0&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>)
